@@ -1,0 +1,8 @@
+﻿  stack.cpp
+  quickSortRec.cpp
+  ex1.cpp
+d:\studies\second year\מבני נתונים\homework\תרגיל תכנותי 1\quicksort implementations\data_structures_ex1\ex1.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\studies\second year\מבני נתונים\homework\תרגיל תכנותי 1\quicksort implementations\data_structures_ex1\ex1.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  data_structures_ex1.vcxproj -> D:\Studies\Second Year\מבני נתונים\homework\תרגיל תכנותי 1\QuickSort implementations\Debug\data_structures_ex1.exe
+  data_structures_ex1.vcxproj -> D:\Studies\Second Year\מבני נתונים\homework\תרגיל תכנותי 1\QuickSort implementations\Debug\data_structures_ex1.pdb (Full PDB)
